@@ -1,0 +1,9 @@
+body {
+  background-size: 100vw 100wh;
+  background-repeat: no-repeat;
+  
+  color: rgb(214, 214, 214);
+}
+.hidden {
+  display: none;
+}
